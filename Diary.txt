@@ -1,1 +1,1 @@
-
+25th-27th Feb -> Learned about web scraping, basics of Go
